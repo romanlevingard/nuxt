@@ -2,7 +2,7 @@
   <section>
     <h1>About page</h1>
 
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure nulla nostrum aliquam cum culpa, itaque esse nihil? Similique, et alias!</p>
+    <p>Lorem 777git commit -m 'initial project version' ipsum dolor sit amet consectetur, adipisicing elit. Iure nulla nostrum aliquam cum culpa, itaque esse nihil? Similique, et alias!</p>
 
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga maiores temporibus amet suscipit minima debitis.</p>
 
